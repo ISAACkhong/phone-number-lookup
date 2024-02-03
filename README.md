@@ -1,2 +1,2 @@
-# phone-number-lookup
-This is a program to lookup a phone number's provider and country.
+# Phone Number Lookup
+This is a program to look up a phone number's country and its provider.
